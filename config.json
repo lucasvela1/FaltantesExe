@@ -1,0 +1,9 @@
+{
+  "LINE": "LCD6 - Montaje",
+  "MODEL": "91DV32X7080",
+  "API_MES": "http://mes.newsan.com.ar",
+  "DW_API": "http://arushap41:3001",
+  "ST_SOCKET_API": "http://arushap41:3030/",
+  "FechaInicio":"05-05-2025%2006:00",
+  "ProduccionTotal":7720
+}
